@@ -15,3 +15,7 @@ This project is a simple single-page CV created using only HTML. It demonstrates
 
 1. Clone the repository or download the `index.html` file.
 2. Open the `index.html` file in any web browser.
+
+## Project Link
+
+- URL: https://roadmap.sh/projects/single-page-cv
